@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A CSE student with passion for Cyber Security</h3>
+<h3 align="center">Third year CSE student at SRMIST with passion for Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak8476&label=Profile%20views&color=0e75b6&style=flat" alt="ak8476" /> </p>
 
